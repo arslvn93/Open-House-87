@@ -9,38 +9,56 @@ const config = {
     "homeType": "Freehold",
     "heroSubtitle": "Country feel close to the city! Completely turn key, high-end finishes, potential in-law suite. Detached garage with hydro. Register to receive the complete property package with listing, photos, media links, and comparables.",
     "backgroundImageUrl": "https://api.typeform.com/responses/files/f7da697bc5e01b20252bb22dac56f1d7f389cb8686a2e1f81fc5b325276a673d/kitchen.jpg",
-    "highlightPhotos": ["https://api.typeform.com/responses/files/deb5b6a9a2bf6b50f4b5b84c528a3de462899ace3773fba1871683a787dae9ac/front_of_house.jpg"],
+    "highlightPhotos": [
+      "https://api.typeform.com/responses/files/deb5b6a9a2bf6b50f4b5b84c528a3de462899ace3773fba1871683a787dae9ac/front_of_house.jpg"
+    ],
     "listingUrl": "https://track.pstmrk.it/3s/sites.ground2airmedia.com%2Fsites%2F403-oakhill-dr-brantford-on-n3t-0l2-16677199%2Fbranded/cUpU/nda9AQ/AQ/fb8ae521-c973-4fce-949e-4b226e146ddb/2/CDNrd2MM24",
     "floorPlanUrl": "N/A",
     "comparablesUrl": "https://drive.google.com/drive/folders/1QzqGNaXFfRg9sj0G0-KmG5X1Rl2GY5vd?usp=drive_link",
     "brandedVideoUrl": "https://youtube.com/shorts/HSqZdZ4-1NE?feature=share",
     "neighbourhoodInfo": "Quiet and mature neighbourhood, close to local amenities.",
-    "mainBenefits": ["Location","move-in ready","detached garage with hydro"]
+    "mainBenefits": [
+      "Location",
+      "move-in ready",
+      "detached garage with hydro"
+    ]
   },
   "realtor": {
     "fullName": "Mel Ross",
-    "title": "Sales Representative",
-    "phone": null,
+    "title": "Rise Realty Group",
+    "phone": "519-209-2721",
     "email": "mel@theriserealtygroup.ca",
     "bio": "Rise Realty Group was established with one core principle in mind: to provide the best real estate experience possible. This philosophy inspired our tagline, ‘raising expectations,’ and our name, Rise Realty Group. We bring over 20 years of experience in the real estate industry and a deep commitment to our community. Our mission goes beyond simply facilitating the buying and selling of homes. We are dedicated to helping you make informed decisions, providing clarity and guidance even in the most complex situations. At Rise Realty Group, we understand that real estate is not just about transactions; it’s about building relationships and fostering trust. We strive to redefine what real estate should be, setting a higher standard for service and client satisfaction. At Rise Realty Group, we are here to raise your expectations and deliver exceptional results.",
     "photoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/22c01a4b-310d-4097-a0f7-5e664f5b7ed5/028A4024.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XKNKBG73%2F20250618%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250618T173546Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDW0%2BcGlRJAm%2FdNQpYxFn8JxxihmtKaGcjjDs6Z1BuSdQIhAKB9Lkcfqnxkkg0poeDSFe6m%2BCbT5Gncj51UjVx51O7yKogECI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgxLmx4PZ4VkvAbLb00q3APZDoW%2Bqe%2F1wjkP%2BSyBsHqO%2BNzf53UqybPZDpVwBxP0rVSGOyKeh5L0lBu68rl%2BweFVtMbLpSyXqKhb3DOORSpDI6WxmMOTmbDwZE2vRenQlRVlyI8Kf%2Bg2FSYG4662XJ8ZrMfXEvCPjNVfTAVgdN9r7Gsf2VnORZjZO6Zf4Z%2FCvQygDiqIACpB5nHrBQ0wjnAueA4XUhiliSEX2k8y50V3eF4qba6bztYcYYOC9QEe3NXuKijojtvFzCUQa5yfr78a5Uz3Mq6AVfq%2FEjE26Rwssl2DE63irB0Ndm8v1E2CjJpdpzd%2BtNYRQ2jFeYOI2olpjJvhFcf2whm%2F%2Fz5M27fK3RssmzwSKynZFObQCpyfkTaYUnpPxDbrQdE8MrURNPNvcJhwyq1jZrIOSAy07fFz%2Bmi2xaJCROOhDNm9Gy3XhMtgIbS2UgIrlO2CQaW3Nw08AFDcqHfsBJXPM49LTzrprv5ifXm8p4oWrA5Ya%2Fq716IavJrzrsCQgMIgzcS6Z3RGHLFVUm1hArwID8vV71keletAQhh2bPcInmzm2yiRyFjdAHkfd3%2B629q5%2FfVk9i83RazQxWlY2V%2FW3PukrPlAkgYqqJ1s12n7fHYcQ2te7EagPyu0x7DpCDzpfzCm9MrCBjqkAXTCnA3D7PUNJzZ7K9NHU42sFsp3J%2FsDpXypSchDPFU2vULHG442B8xDP4Ri1VEdvsHRTwqjulyQ3Wxos8Yd4OVGgdbsZy%2FWQm%2B5JzLT43Qx9G9xqxfLpDRDh6I82gsp11qgxJWUrqs%2Fe2vWkzUueWtxEJpy5bIe8S5KULDCUlVpprjEDR6xsYT8u4lTSqMCfHOsC%2BHSTV7mdo3iU72%2FQR0buYqF&X-Amz-Signature=4f46ee73dbdd832a7ad074d10bc6e61ca555da5d9edb3595e6d723dccef17825&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
     "social": {
       "facebook": "https://www.facebook.com/theriserealtygroup/",
-      "instagram": "ashleyveldkamp"
+      "instagram": "https://www.instagram.com/theriserealtygroup/"
     }
   },
   "brokerage": {
     "name": "Real Broker LTD",
-    "logoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/9e0cb426-7be8-42ce-9e46-be8012159b0b/RRG_Grey_CMYK.png",
-    "address": "218 Brant Avenue\nBrantford ON N3T 3H9"
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/5f768b78dc5a3234c61030ae/1621350328006-DHY98QDLHQSC5H8K1DE5/real+broker+logo.png",
+    "address": "218 Brant AvenueBrantford ON N3T 3H9"
   },
   "openHouse": {
     "eventDate": "2025-06-21",
     "bundleItems": [
-      { "icon": "fas fa-link", "text": "Property Listing URL" },
-      { "icon": "fas fa-image", "text": "Photos" },
-      { "icon": "fas fa-video", "text": "Virtual Tour" },
-      { "icon": "fas fa-chart-bar", "text": "Recent Neighborhood Sales" }
+      {
+        "icon": "fas fa-link",
+        "text": "Property Listing URL"
+      },
+      {
+        "icon": "fas fa-image",
+        "text": "Photos"
+      },
+      {
+        "icon": "fas fa-video",
+        "text": "Virtual Tour"
+      },
+      {
+        "icon": "fas fa-chart-bar",
+        "text": "Recent Neighborhood Sales"
+      }
     ]
   },
   "meta": {
@@ -51,43 +69,85 @@ const config = {
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
     "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse",
-    "confettiColors": ["#6187a7","#f0e9d6","#ffffff","#83a363","#d9ac68"]
+    "confettiColors": [
+      "#6187a7",
+      "#f0e9d6",
+      "#ffffff",
+      "#83a363",
+      "#d9ac68"
+    ]
   },
   "modalQuestions": [
     {
       "id": "agent_status",
       "questionText": "Are you currently exploring homes with a real estate agent?",
       "options": [
-        { "value": "committed", "text": "Yes, I'm committed to an agent." },
-        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
-        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+        {
+          "value": "committed",
+          "text": "Yes, I'm committed to an agent."
+        },
+        {
+          "value": "not_committed",
+          "text": "No, I'm not committed to an agent."
+        },
+        {
+          "value": "gathering_info",
+          "text": "Just gathering information at this stage."
+        }
       ]
     },
     {
       "id": "interest_level",
       "questionText": "How interested are you in properties like this?",
       "options": [
-        { "value": "very_interested", "text": "Very interested, actively looking." },
-        { "value": "somewhat_interested", "text": "Somewhat interested, keeping options open." },
-        { "value": "just_browsing", "text": "Just browsing for now." }
+        {
+          "value": "very_interested",
+          "text": "Very interested, actively looking."
+        },
+        {
+          "value": "somewhat_interested",
+          "text": "Somewhat interested, keeping options open."
+        },
+        {
+          "value": "just_browsing",
+          "text": "Just browsing for now."
+        }
       ]
     },
     {
       "id": "neighborhood_engagement",
       "questionText": "How do you usually enjoy the neighborhood?",
       "options": [
-        { "value": "resident_explorer", "text": "I live here and love exploring locally." },
-        { "value": "considering_move", "text": "I'm considering moving to this area." },
-        { "value": "just_visiting", "text": "Just visiting for the open house." }
+        {
+          "value": "resident_explorer",
+          "text": "I live here and love exploring locally."
+        },
+        {
+          "value": "considering_move",
+          "text": "I'm considering moving to this area."
+        },
+        {
+          "value": "just_visiting",
+          "text": "Just visiting for the open house."
+        }
       ]
     },
     {
       "id": "feature_attraction",
       "questionText": "What feature attracted you to this home?",
       "options": [
-        { "value": "design_layout", "text": "The design and layout." },
-        { "value": "location_neighborhood", "text": "The location and neighborhood." },
-        { "value": "home_price", "text": "The price of the home." }
+        {
+          "value": "design_layout",
+          "text": "The design and layout."
+        },
+        {
+          "value": "location_neighborhood",
+          "text": "The location and neighborhood."
+        },
+        {
+          "value": "home_price",
+          "text": "The price of the home."
+        }
       ]
     }
   ],
