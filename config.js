@@ -54,10 +54,6 @@ const config = {
       {
         "icon": "fas fa-video",
         "text": "Virtual Tour"
-      },
-      {
-        "icon": "fas fa-chart-bar",
-        "text": "Recent Neighborhood Sales"
       }
     ]
   },
